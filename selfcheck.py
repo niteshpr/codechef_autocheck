@@ -55,6 +55,7 @@ display.start()
 browser.set_script_timeout(30)
 browser.set_page_load_timeout(30) # seconds
 
+
 # quit browser
 browser.quit()
 # quit Xvfb display
