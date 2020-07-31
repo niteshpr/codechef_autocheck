@@ -1,1 +1,1 @@
-# codechef_autocheck
+try
